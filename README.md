@@ -8,7 +8,7 @@
 </pre>
 # The Zeta Project
 ```c#
-public class Greating {
+public class Greeting {
     public void HelloWorld(string name) {
         Console.WriteLine($"hello {name}");
     }
@@ -16,9 +16,9 @@ public class Greating {
 ```
 
 ## About this project
-this Project is a part from a colaborative conding project, it started to share knowledge between developers, by live coding technics, and real world projects,
+this Project is a part from a collaborative coding project, it started to share knowledge between developers, by line coding techniques, and real world projects.
 > Information is power. But like all power, there are those who want to keep it for themselves.
 > **Aaron Swartz**
 
 ## Contact Us
-[our slack channel](thezetaproject.slack.com)
+our slack channel: thezetaproject.slack.com
