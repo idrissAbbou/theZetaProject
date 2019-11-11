@@ -1,0 +1,11 @@
+/home/xana/projects/theZetaProject/bin/Debug/netcoreapp3.0/theZetaProject
+/home/xana/projects/theZetaProject/bin/Debug/netcoreapp3.0/theZetaProject.deps.json
+/home/xana/projects/theZetaProject/bin/Debug/netcoreapp3.0/theZetaProject.runtimeconfig.json
+/home/xana/projects/theZetaProject/bin/Debug/netcoreapp3.0/theZetaProject.runtimeconfig.dev.json
+/home/xana/projects/theZetaProject/bin/Debug/netcoreapp3.0/theZetaProject.dll
+/home/xana/projects/theZetaProject/bin/Debug/netcoreapp3.0/theZetaProject.pdb
+/home/xana/projects/theZetaProject/obj/Debug/netcoreapp3.0/theZetaProject.csprojAssemblyReference.cache
+/home/xana/projects/theZetaProject/obj/Debug/netcoreapp3.0/theZetaProject.AssemblyInfoInputs.cache
+/home/xana/projects/theZetaProject/obj/Debug/netcoreapp3.0/theZetaProject.AssemblyInfo.cs
+/home/xana/projects/theZetaProject/obj/Debug/netcoreapp3.0/theZetaProject.dll
+/home/xana/projects/theZetaProject/obj/Debug/netcoreapp3.0/theZetaProject.pdb
